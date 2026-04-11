@@ -2,6 +2,8 @@
 
 The HiFi API proxied through Scramjet and can be hosted statically on domains like AWS S3 and GCS.
 
+Why use this? In a school, university or workplace, if you find a Monochrome instance that is not blocked by the network filter, you still wouldn't be able to use it because the API instances that Monochrome uses are blocked on most network filters. By using this, you can deploy the API to a domain like storage.googleapis.com or s3.amazonaws.com and it wouldn't be blocked because many popular websites rely on these domains. If you don't want to deploy it, please scroll down to the 2nd section.
+
 
 ## Usage
 
