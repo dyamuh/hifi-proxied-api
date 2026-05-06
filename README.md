@@ -20,7 +20,9 @@ dyamuh.dev/hfapi
 Or official Monochrome API's:
 
 api.monochrome.tf
+
 eu-central.monochrome.tf
+
 us-west.monochrome.tf
 
 PLEASE NOTE: OFFICIAL MONOCHROME API's ARE NOT RECOMMENDED DUE TO CLOUDFLARE PROXYING. USE AT YOUR OWN RISK.
