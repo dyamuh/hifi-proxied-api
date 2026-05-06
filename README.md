@@ -30,7 +30,7 @@ PLEASE NOTE: OFFICIAL MONOCHROME API's ARE NOT RECOMMENDED DUE TO CLOUDFLARE PRO
 ## I'm too lazy to deploy this
 You do not have to deploy this to use it. We have an instance already hosted on Google Cloud Storage that can be plugged into development or any Monochrome instance. To use this in Monochrome, navigate to settings => instances then add a custom "API Instance" and a custom "Streaming Instance" and set it to the URL below:
 
-https://storage.googleapis.com/hifiapi/index.html
+https://storage.googleapis.com/hfproxiedapi/index.html
 
 ## Dependencies Used
 This project uses the following:
