@@ -13,13 +13,17 @@ Please update the Wisp URL in config.js to your own Wisp server. This project do
 
 If you would like to change the HiFi API that is being proxied, that can be found in handle.js. Please note, other API's hosted may have stricter hosting and firewalls causing this to get blocked. 
 
-The recommended API's to use are these below:
+The recommended API'(s) to use are these below:
 
-api.studentsneed.help
+dyamuh.dev/hfapi
 
-hfapi.aluratech.org
+Or official Monochrome API's:
 
-hfapi.dyamuh.dev
+api.monochrome.tf
+eu-central.monochrome.tf
+us-west.monochrome.tf
+
+PLEASE NOTE: OFFICIAL MONOCHROME API's ARE NOT RECOMMENDED DUE TO CLOUDFLARE PROXYING. USE AT YOUR OWN RISK.
 
 ## I'm too lazy to deploy this
 You do not have to deploy this to use it. We have an instance already hosted on Google Cloud Storage that can be plugged into development or any Monochrome instance. To use this in Monochrome, navigate to settings => instances then add a custom "API Instance" and a custom "Streaming Instance" and set it to the URL below:
