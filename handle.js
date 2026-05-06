@@ -1,4 +1,4 @@
-const HIFI_URL = 'https://hfapi.aluratech.org/'; 
+const HIFI_URL = 'https://dyamuh.dev/hfapi/'; 
 
 function launchScramjet(url) {
     if (!window.sj) {
